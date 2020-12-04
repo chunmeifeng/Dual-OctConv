@@ -1,6 +1,4 @@
-# Dual-Oct
-**Dual-Octave Convolution for Fast Parallel MR Image Reconstruction**
-This model is inspired from Octave Conv and ComplexMRI, and established on the project DeepComplexMRI.
+# Dual-Octave Convolution for Fast Parallel MR Image Reconstruction (AAAI 2021)
 
 ## Dependencies
 * Python 3.7
@@ -24,15 +22,6 @@ conda install scikit-image
 conda install tqdm
 conda install opencv
 ```
-
-## Project Structure
-Dual-OctConv
-  ├──README.md
-  ├──code
-    ├──data_preparation
-    └──model
-  ├──experiment
-  └──results
 
 ## Dataset and Prepartion
 All data that we used for our experiments are released at GLOBUS(https://app.globus.org/file-manager?origin_id=15c7de28-a76b-11e9-821c-02b7a92d8e58&origin_path=%2F).
