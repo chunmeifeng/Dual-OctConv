@@ -42,7 +42,7 @@ CUDA_VISIBLE_DEVICES=0 python run.py --n_GPU 1 --name OctComplex_B10_a0.125_cpd3
 CUDA_VISIBLE_DEVICES=0 python tester.py --n_GPU 1 --rsname OctComplex_B10_a0.125_cpd320_1Un3 --n_blocks 10 --n_feats 64 --alpha 0.125 --data_dst coronal_pd_320 --mask_name 1Un3_320 --test_only --save_gt --save_results
 ```
 ## Citation
-If you find MATNet useful for your research, please consider citing the following papers:
+If you find Dual-OctConv useful for your research, please consider citing the following papers:
 ```
 @inproceedings{feng2021DualOctConv,
   title={Dual-Octave Convolution for Fast Parallel MR Image Reconstruction},
