@@ -1,0 +1,3 @@
+
+Model name:OctComplex_B10_lrb3_a0.125_cpd320c0_1Un3_5
+[Epoch  49]  PSNR: 36.2432 (Best:36.2432 @epoch 1)  SSIM: 0.9190 (Best:0.9190 @epoch 1)
