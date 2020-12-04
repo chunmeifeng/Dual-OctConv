@@ -1,5 +1,4 @@
 # Dual-OctConv
-# Dual-Oct
 **Dual-Octave Convolution for Fast Parallel MR Image Reconstruction**
 This model is inspired from Octave Conv and ComplexMRI, and established on the project DeepComplexMRI.
 
