@@ -27,7 +27,7 @@ conda install opencv
 All data that we used for our experiments are released at GLOBUS(https://app.globus.org/file-manager?origin_id=15c7de28-a76b-11e9-821c-02b7a92d8e58&origin_path=%2F).
 Before training, we recommend you to process data into ```.tfrecords``` to accelerate the progress.  File ```./data_preparation/data2tfrecords.py``` specifies the route of data processing.
 
-## How to train and test on Dual-OctMRI
+## How to train and test on Dual-OctConv
 Unpack the dataset file to the folder you defined. Then, change the ```data_dst``` argument in ```./option.py``` to the place where datasets are located.
 
 Enter in the folder ```/Dual-OctConv/code```
