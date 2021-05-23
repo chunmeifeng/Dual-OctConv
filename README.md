@@ -1,4 +1,4 @@
-# Dual-Octave Convolution for Fast Parallel MR Image Reconstruction (AAAI 2021)
+# Dual-Octave Convolution for Accelerated Parallel MR Image Reconstruction (AAAI 2021)
 
 ## Dependencies
 * Python 3.7
@@ -45,7 +45,7 @@ CUDA_VISIBLE_DEVICES=0 python tester.py --n_GPU 1 --rsname OctComplex_B10_a0.125
 If you find Dual-OctConv useful for your research, please consider citing the following papers:
 ```
 @inproceedings{feng2021DualOctConv,
-  title={Dual-Octave Convolution for Fast Parallel MR Image Reconstruction},
+  title={Dual-Octave Convolution for Accelerated Parallel MR Image Reconstruction},
   author={Feng, Chun-Mei and Yang, Zhanyuan and Chen, Geng and Xu, Yong and Shao, Ling},
   booktitle={Proceedings of the 35th AAAI Conference on Artificial Intelligence (AAAI)},
   year={2021}
